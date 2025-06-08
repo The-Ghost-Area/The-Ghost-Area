@@ -11,13 +11,7 @@ I wield a wide arsenal of tools to conquer the coding battlefield:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=nuxt.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql )![Canvas](https://img.shields.io/badge/-Canvas-000000?style=flat&logo=html5) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ---
 
-### 🗣️ Most Used Languages  
-- **[Lang1]:** [Percentage1]%  
-- **[Lang2]:** [Percentage2]%  
-- **[Lang3]:** [Percentage3]%  
-- **[Lang4]:** [Percentage4]%  
-- **[Lang5]:** [Percentage5]%  
-- **[Lang6]:** [Percentage6]%  
+
 
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
